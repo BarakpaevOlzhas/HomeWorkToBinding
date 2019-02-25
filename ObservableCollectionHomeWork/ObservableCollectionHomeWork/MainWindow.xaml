@@ -1,0 +1,31 @@
+﻿<Window x:Class="ObservableCollectionHomeWork.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ObservableCollectionHomeWork"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+
+        <ListBox Name="listBoxForEmployee" Margin="350,0,0,0">
+
+        </ListBox>        
+
+        <TextBlock Text="FullName" Margin="224,32,218,265" />        
+        <TextBox Name="textBoxForAge" Margin="203,101,193,195"/>
+        
+        <TextBlock Text="Age" Margin="238,79,236,218" />
+        <TextBox Name="textBoxForFullName" Margin="203,54,193,242"/>
+        
+        <TextBlock Text="NameDivisoin" Margin="224,126,193,171" />
+        <TextBox Name="textBoxForDivisionName" Margin="203,148,193,148"/>
+
+        <Button Click="ButtonClickForAddEmployee" Content="Add" Margin="203,203,193,85"/>        
+
+        <ListBox Name="listBoxForDivision" Margin="0,0,343,0">
+
+        </ListBox>
+
+    </Grid>
+</Window>

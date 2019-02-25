@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MultiValueConverter\MultiValueConverter\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\MultiValueConverter\MultiValueConverter\obj\Debug\App.g.cs
+C:\Users\User\source\repos\MultiValueConverter\MultiValueConverter\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\source\repos\MultiValueConverter\MultiValueConverter\obj\Debug\MultiValueConverter_MarkupCompile.cache
+C:\Users\User\source\repos\MultiValueConverter\MultiValueConverter\obj\Debug\MultiValueConverter_MarkupCompile.lref
+C:\Users\User\source\repos\MultiValueConverter\MultiValueConverter\obj\Debug\MultiValueConverter.exe
+C:\Users\User\source\repos\MultiValueConverter\MultiValueConverter\obj\Debug\MultiValueConverter.pdb
+C:\Users\User\source\repos\MultiValueConverter\MultiValueConverter\bin\Debug\MultiValueConverter.exe.config
+C:\Users\User\source\repos\MultiValueConverter\MultiValueConverter\bin\Debug\MultiValueConverter.exe
+C:\Users\User\source\repos\MultiValueConverter\MultiValueConverter\bin\Debug\MultiValueConverter.pdb
+C:\Users\User\source\repos\MultiValueConverter\MultiValueConverter\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\MultiValueConverter\MultiValueConverter\obj\Debug\MultiValueConverter.g.resources
+C:\Users\User\source\repos\MultiValueConverter\MultiValueConverter\obj\Debug\MultiValueConverter.Properties.Resources.resources
+C:\Users\User\source\repos\MultiValueConverter\MultiValueConverter\obj\Debug\MultiValueConverter.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\MultiValueConverter\MultiValueConverter\obj\Debug\MultiValueConverter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MultiValueConverter\MultiValueConverter\obj\Debug\MultiValueConverter.csprojResolveAssemblyReference.cache

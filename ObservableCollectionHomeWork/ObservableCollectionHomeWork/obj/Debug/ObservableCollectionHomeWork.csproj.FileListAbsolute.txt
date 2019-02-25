@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ObservableCollectionHomeWork\ObservableCollectionHomeWork\bin\Debug\ObservableCollectionHomeWork.exe.config
+C:\Users\User\source\repos\ObservableCollectionHomeWork\ObservableCollectionHomeWork\bin\Debug\ObservableCollectionHomeWork.exe
+C:\Users\User\source\repos\ObservableCollectionHomeWork\ObservableCollectionHomeWork\bin\Debug\ObservableCollectionHomeWork.pdb
+C:\Users\User\source\repos\ObservableCollectionHomeWork\ObservableCollectionHomeWork\obj\Debug\ObservableCollectionHomeWork.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\ObservableCollectionHomeWork\ObservableCollectionHomeWork\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\ObservableCollectionHomeWork\ObservableCollectionHomeWork\obj\Debug\App.g.cs
+C:\Users\User\source\repos\ObservableCollectionHomeWork\ObservableCollectionHomeWork\obj\Debug\ObservableCollectionHomeWork_MarkupCompile.cache
+C:\Users\User\source\repos\ObservableCollectionHomeWork\ObservableCollectionHomeWork\obj\Debug\ObservableCollectionHomeWork_MarkupCompile.lref
+C:\Users\User\source\repos\ObservableCollectionHomeWork\ObservableCollectionHomeWork\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\ObservableCollectionHomeWork\ObservableCollectionHomeWork\obj\Debug\ObservableCollectionHomeWork.g.resources
+C:\Users\User\source\repos\ObservableCollectionHomeWork\ObservableCollectionHomeWork\obj\Debug\ObservableCollectionHomeWork.Properties.Resources.resources
+C:\Users\User\source\repos\ObservableCollectionHomeWork\ObservableCollectionHomeWork\obj\Debug\ObservableCollectionHomeWork.csproj.GenerateResource.Cache
+C:\Users\User\source\repos\ObservableCollectionHomeWork\ObservableCollectionHomeWork\obj\Debug\ObservableCollectionHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ObservableCollectionHomeWork\ObservableCollectionHomeWork\obj\Debug\ObservableCollectionHomeWork.exe
+C:\Users\User\source\repos\ObservableCollectionHomeWork\ObservableCollectionHomeWork\obj\Debug\ObservableCollectionHomeWork.pdb
